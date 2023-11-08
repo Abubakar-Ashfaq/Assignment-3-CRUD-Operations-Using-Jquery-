@@ -1,0 +1,19 @@
+.container {
+  border: 2px solid black;
+}
+.addProduct {
+  border: 2px solid black;
+  display: none;
+}
+#Product {
+  border: 2px solid blue;
+}
+#Product h3 {
+  border-bottom: 2px dashed black;
+}
+#Product h4 {
+  border-bottom: 2px dashed black;
+}
+#Product p {
+  border-bottom: 2px dashed black;
+}
